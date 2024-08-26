@@ -1,0 +1,19 @@
+{
+  "name": "art-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloVict/art-main.git"
+  },
+  "author": "Camilo Victoria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamiloVict/art-main/issues"
+  },
+  "homepage": "https://github.com/CamiloVict/art-main#readme"
+}
