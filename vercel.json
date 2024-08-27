@@ -2,7 +2,21 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api"
+      "destination": "/api",
+      "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/",
+            "methods": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE",
+                "OPTIONS"
+            ]
+        }
+    ]
     }
   ]
 }
