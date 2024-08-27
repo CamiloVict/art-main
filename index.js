@@ -1,6 +1,5 @@
 import express from 'express'
 import path from 'path'
-import fs from 'fs/promises'
 import cors from 'cors'
 import crypto from 'crypto' //* Added to generate UUIDs
 import dataArt from './art.json' assert {type: 'json'}
