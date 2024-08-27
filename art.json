@@ -1,0 +1,226 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "title": "Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "medium": "Oil on canvas",
+    "style": "Post-Impressionism",
+    "dimensions": "73.7 cm × 92.1 cm",
+    "location": "Museum of Modern Art, New York",
+    "description": "One of Van Gogh's most famous works, depicting a swirling night sky over a quiet town.",
+    "price": 100000000,
+    "genre": [
+      "Post-Impressionism",
+      "Expressionism"
+    ]
+  },
+  {
+    "id": "6fa459ea-ee8a-3ca4-894e-db77e160355e",
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "year": 1503,
+    "medium": "Oil on poplar",
+    "style": "Renaissance",
+    "dimensions": "77 cm × 53 cm",
+    "location": "Louvre Museum, Paris",
+    "description": "A portrait of a woman with an enigmatic expression, widely considered one of the greatest works of art.",
+    "price": 860000000,
+    "genre": [
+      "Renaissance",
+      "Portrait"
+    ]
+  },
+  {
+    "id": "16fd2706-8baf-433b-82eb-8c7fada847da",
+    "title": "The Persistence of Memory",
+    "artist": "Salvador Dalí",
+    "year": 1931,
+    "medium": "Oil on canvas",
+    "style": "Surrealism",
+    "dimensions": "24 cm × 33 cm",
+    "location": "Museum of Modern Art, New York",
+    "description": "Dalí's iconic painting of melting clocks, symbolizing the fluidity of time.",
+    "price": 60000000,
+    "genre": [
+      "Surrealism",
+      "Abstract"
+    ]
+  },
+  {
+    "id": "1b645389-bf70-451d-8e3c-89a8a220a8d7",
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "medium": "Oil, tempera, and pastel on cardboard",
+    "style": "Expressionism",
+    "dimensions": "91 cm × 73.5 cm",
+    "location": "National Gallery, Oslo",
+    "description": "A haunting depiction of existential angst, featuring a figure with an agonized expression.",
+    "price": 120000000,
+    "genre": [
+      "Expressionism",
+      "Symbolism"
+    ]
+  },
+  {
+    "id": "4e936d9c-1ff0-4a4b-8191-e9e071db2e8a",
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "year": 1937,
+    "medium": "Oil on canvas",
+    "style": "Cubism",
+    "dimensions": "349 cm × 776 cm",
+    "location": "Museo Reina Sofía, Madrid",
+    "description": "A powerful anti-war painting, portraying the horrors of the bombing of Guernica during the Spanish Civil War.",
+    "price": 200000000,
+    "genre": [
+      "Cubism",
+      "Political"
+    ]
+  },
+  {
+    "id": "7617f966-0f81-47a7-a3d8-48ee083b3c8a",
+    "title": "Girl with a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "year": 1665,
+    "medium": "Oil on canvas",
+    "style": "Baroque",
+    "dimensions": "44.5 cm × 39 cm",
+    "location": "Mauritshuis, The Hague",
+    "description": "A beautiful portrayal of a young girl wearing a pearl earring, often referred to as the 'Mona Lisa of the North'.",
+    "price": 70000000,
+    "genre": [
+      "Baroque",
+      "Portrait"
+    ]
+  },
+  {
+    "id": "ae6e8e88-b635-4d55-8e14-281b7654e0a6",
+    "title": "The Last Supper",
+    "artist": "Leonardo da Vinci",
+    "year": 1498,
+    "medium": "Tempera and oil on plaster",
+    "style": "Renaissance",
+    "dimensions": "460 cm × 880 cm",
+    "location": "Convent of Santa Maria delle Grazie, Milan",
+    "description": "A masterful depiction of the moment Jesus announces that one of his apostles will betray him.",
+    "price": 450000000,
+    "genre": [
+      "Renaissance",
+      "Religious"
+    ]
+  },
+  {
+    "id": "b1f2d38d-6c3c-4e85-a2b1-5be8bbdbef7f",
+    "title": "The Birth of Venus",
+    "artist": "Sandro Botticelli",
+    "year": 1486,
+    "medium": "Tempera on canvas",
+    "style": "Renaissance",
+    "dimensions": "172.5 cm × 278.9 cm",
+    "location": "Uffizi Gallery, Florence",
+    "description": "A depiction of the goddess Venus emerging from the sea on a shell, symbolizing beauty and love.",
+    "price": 180000000,
+    "genre": [
+      "Renaissance",
+      "Mythological"
+    ]
+  },
+  {
+    "id": "3d6fa8bf-49c2-4131-bad7-50c34d914f30",
+    "title": "The Kiss",
+    "artist": "Gustav Klimt",
+    "year": 1908,
+    "medium": "Oil and gold leaf on canvas",
+    "style": "Symbolism",
+    "dimensions": "180 cm × 180 cm",
+    "location": "Österreichische Galerie Belvedere, Vienna",
+    "description": "A famous painting representing love and intimacy, featuring a couple locked in a passionate embrace.",
+    "price": 135000000,
+    "genre": [
+      "Symbolism",
+      "Romantic"
+    ]
+  },
+  {
+    "id": "9f8f7387-9095-46de-9d61-2f0e0d5dfddb",
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "year": 1930,
+    "medium": "Oil on beaverboard",
+    "style": "Regionalism",
+    "dimensions": "78 cm × 65.3 cm",
+    "location": "Art Institute of Chicago",
+    "description": "An iconic portrayal of a farmer and his daughter, symbolizing the spirit of rural America.",
+    "price": 80000000,
+    "genre": [
+      "Regionalism",
+      "Portrait"
+    ]
+  },
+  {
+    "id": "be59c30f-5073-4d7f-929e-7d90a6b5488b",
+    "title": "The Night Watch",
+    "artist": "Rembrandt van Rijn",
+    "year": 1642,
+    "medium": "Oil on canvas",
+    "style": "Baroque",
+    "dimensions": "363 cm × 437 cm",
+    "location": "Rijksmuseum, Amsterdam",
+    "description": "A famous group portrait of a city militia, known for its dramatic use of light and shadow.",
+    "price": 250000000,
+    "genre": [
+      "Baroque",
+      "Group Portrait"
+    ]
+  },
+  {
+    "id": "d6cfc421-6bb8-438b-b999-b9f4f26f9f7f",
+    "title": "The School of Athens",
+    "artist": "Raphael",
+    "year": 1509,
+    "medium": "Fresco",
+    "style": "Renaissance",
+    "dimensions": "500 cm × 770 cm",
+    "location": "Apostolic Palace, Vatican City",
+    "description": "A grand depiction of classical philosophers and scholars, symbolizing the unity of human knowledge.",
+    "price": 300000000,
+    "genre": [
+      "Renaissance",
+      "Classical"
+    ]
+  },
+  {
+    "id": "c63577bb-54cb-49b2-b5c0-e39f56e787cf",
+    "title": "Liberty Leading the People",
+    "artist": "Eugène Delacroix",
+    "year": 1830,
+    "medium": "Oil on canvas",
+    "style": "Romanticism",
+    "dimensions": "260 cm × 325 cm",
+    "location": "Louvre Museum, Paris",
+    "description": "A powerful symbol of revolution, depicting Liberty personified leading the people to freedom.",
+    "price": 150000000,
+    "genre": [
+      "Romanticism",
+      "Historical"
+    ]
+  },
+  {
+    "id": "0d8199a5-b7ae-4f3c-9e70-41b5d8c4747c",
+    "title": "The Garden of Earthly Delights",
+    "artist": "Hieronymus Bosch",
+    "year": 1490,
+    "medium": "Oil on oak panels",
+    "style": "Early Netherlandish",
+    "dimensions": "220 cm × 389 cm",
+    "location": "Museo del Prado, Madrid",
+    "description": "A triptych depicting the Garden of Eden, earthly pleasures, and hell, full of fantastical imagery and symbolism.",
+    "price": 200000000,
+    "genre": [
+      "Early Netherlandish",
+      "Triptych"
+    ]
+  }
+]
